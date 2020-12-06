@@ -43,7 +43,6 @@ export default {
       )
       .then((response) => {
         this.news = response.data.articles.slice(0, 4);
-        console.log(this.news);
       });
   },
 };
