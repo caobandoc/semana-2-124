@@ -39,7 +39,7 @@ export default {
         codigo: 1,
         nombre: "Carlos Obando",
         descripcion:
-        "Profesional en áreas tecnológicas",
+        "Profesional con formación en técnico profesional en computación enfocada al desarrollo de software con soporte técnico a sistemas informáticos. Persona ética, empática, perspicaz, adaptable al cambio con alta tolerancia al estrés y la presión.",
         rol: "Desarrollador backend",
         image:"./images/caoc.jpg",
       },
@@ -47,7 +47,7 @@ export default {
         codigo: 2,
         nombre: "Jorge Andrés Mora",
         descripcion:
-        "Empresario, Ingeniero Industrial, Especialista en Seguridad y Salud en el Trabajo, con experiencia en asesoria y consultoria en Gestión empresarial en normas técnicas ISO 9001, ISO 14001, ISO 45001, ISO 39001, ISO 22000 entre otras",
+        "Empresario, Ingeniero Industrial, Especialista en Seguridad y Salud en el Trabajo, con experiencia en asesoria y consultoria en Gestión empresarial en normas técnicas ISO 9001, ISO 14001, ISO 45001, ISO 39001, ISO 22000 entre otras.",
         rol: "Desarrollador fronted",
         image: "./images/estilo.jpg",
       },
@@ -65,7 +65,7 @@ export default {
         descripcion:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
         rol: "Analista",
-        image: "https://placeimg.com/192/192/people",
+        image: "https://placeimg.com/192/192/animals",
       },
       {
         codigo: 5,
@@ -73,7 +73,7 @@ export default {
         descripcion:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
         rol: "Documentación",
-        image: "https://placeimg.com/192/192/people",
+        image: "https://placeimg.com/192/192/city",
       },
       ]
     }

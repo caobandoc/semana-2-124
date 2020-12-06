@@ -1,11 +1,11 @@
 <template>
-    <div class="border border-white bg-light">
+    <div class="border border-white bg-light" style="min-height: 45rem;">
  
-    <div class="alert alert-light">
+    <div class="alert alert-light" style="min-height: 18rem;">
         <div class= "d-flex justify-content-center p-2">
-            <span class="border border-dark">
-            <img :src="member.image" alt="Fotografía del equipo" class="rounded-lg">
-            </span>
+            
+            <img :src="member.image" alt="Fotografía del equipo" class="rounded-circle" style="width: 12rem; max-height: 15rem;">
+            
         </div>
          </div>
         <div class=text-center>
@@ -14,7 +14,7 @@
         </div>
         
             <ul class="card-body">
-                <li>{{member.descripcion}}</li>
+                <p>{{member.descripcion}}</p>
                 <li><span> Rol: </span>{{member.rol}}</li>
             </ul>
      </div>
