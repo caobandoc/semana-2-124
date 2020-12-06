@@ -37,7 +37,7 @@ export default {
         codigo: 1,
         nombre: "Carlos Obando",
         descripcion:
-        "Profesional en áreas tecnológicas",
+        "Profesional con formación en técnico profesional en computación enfocada al desarrollo de software con soporte técnico a sistemas informáticos. Persona ética, empática, perspicaz, adaptable al cambio con alta tolerancia al estrés y la presión.",
         rol: "Desarrollador backend",
         image:"./images/caoc.jpg",
       },
@@ -45,7 +45,7 @@ export default {
         codigo: 2,
         nombre: "Jorge Andrés Mora",
         descripcion:
-        "Empresario, Ingeniero Industrial, Especialista en Seguridad y Salud en el Trabajo, con experiencia en asesoria y consultoria en Gestión empresarial en normas técnicas ISO 9001, ISO 14001, ISO 45001, ISO 39001, ISO 22000 entre otras",
+        "Empresario, Ingeniero Industrial, Especialista en Seguridad y Salud en el Trabajo, con experiencia en asesoria y consultoria en Gestión empresarial en normas técnicas ISO 9001, ISO 14001, ISO 45001, ISO 39001, ISO 22000 entre otras.",
         rol: "Desarrollador fronted",
         image: "./images/estilo.jpg",
       },

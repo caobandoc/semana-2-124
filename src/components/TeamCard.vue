@@ -14,7 +14,7 @@
         </div>
         
             <ul class="card-body">
-                <li>{{member.descripcion}}</li>
+                <p>{{member.descripcion}}</p>
                 <li><span> Rol: </span>{{member.rol}}</li>
             </ul>
      </div>
