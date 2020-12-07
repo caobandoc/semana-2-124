@@ -11,10 +11,12 @@
         <div class=text-center>
             <div class="card text-white bg-dark mb-2" style="max-width: 50rem;">
             <h4 class="card-title">{{member.nombre}}</h4>
+            <h4 class="card-title">codigo: {{member.codigo}}</h4>
         </div>
         
+        
             <ul class="card-body">
-                <p>{{member.descripcion}}</p>
+                <p> {{member.descripcion}}</p>
                 <li><span> Rol: </span>{{member.rol}}</li>
             </ul>
      </div>
